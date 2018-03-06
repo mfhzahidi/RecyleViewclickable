@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RecyleView clickable</string>
+    <string-array name="name">
+        <item>"a"</item>
+        <item>"b</item>
+        <item>"c</item>
+        <item>"d</item>
+        <item>"e</item>
+        <item>"f</item>
+        <item>"g</item>
+        <item>"h"</item>
+        <item>"i"</item>
+        <item>"j"</item>
+
+    </string-array>
+    <string-array name="description">
+        <item>"alphabet char a"</item>
+        <item>"alphabet char b"</item>
+        <item>"alphabet char c"</item>
+        <item>"alphabet char d"</item>
+        <item>"alphabet char e"</item>
+        <item>"alphabet char f"</item>
+        <item>"alphabet char g"</item>
+        <item>"alphabet char h"</item>
+        <item>"alphabet char i"</item>
+        <item>"alphabet char j"</item>
+    </string-array>
+</resources>
